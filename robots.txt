@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://avped.github.io/JcC/sitemap.JcC.gz
